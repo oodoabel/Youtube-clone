@@ -1,0 +1,19 @@
+.mod{
+  font-family: Montserrat;
+  padding: 0px 100px 0px;
+  font-weight: bold;
+  font-size: 30px;
+
+}
+.order{
+  font-family: Montserrat;
+  font-size: 20px;
+}
+.touch{
+
+}
+.touch:hover{
+  text-decoration: underline;
+  cursor: pointer;
+
+}
